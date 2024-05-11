@@ -8,7 +8,7 @@ Sou um estudante de engenharia de computação e estou me aproximando do final d
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cléo-de-melo-neto-62a9b11b0/)
 
-## Habilidades
+## Habilidades em desenvolvimento
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)
